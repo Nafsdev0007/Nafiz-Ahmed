@@ -42,7 +42,7 @@ function Contact() {
   };
 
   return (
-    <section className="c-space my-20">
+    <section id="contact" className="c-space my-20">
       <div className="relative min-h-screen flex justify-center flex-col items-center">
         <img
           src="/assets/terminal.png"

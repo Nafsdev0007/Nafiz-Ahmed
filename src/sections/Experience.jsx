@@ -9,7 +9,7 @@ function Experience() {
   const  [animation, setAnimation] = useState("idle");
 
   return (
-    <section className="my-20 c-space">
+    <section id="skills" className="my-20 c-space">
       <div className="w-full text-white-600">
         <h3 className="head-text">My Work Experience</h3>
         <div className="work-container">
